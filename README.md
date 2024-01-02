@@ -1,0 +1,1 @@
+ChatApp is a messaging application that aims to provide a simple and efficient platform for communication. Whether you want to connect with friends, family, or new contacts, ChatApp has you covered. With a focus on user privacy and a clean user interface, ChatApp offers a delightful chatting experience.
